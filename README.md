@@ -6,7 +6,7 @@ o	Team members and their email addresses
 	
 	- John Lovre - JRL142@pitt.edu
 
-	- 
+	- Zezhong Chen - ZEC20@pitt.edu
 
 	- 
 
